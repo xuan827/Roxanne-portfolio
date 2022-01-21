@@ -12,3 +12,8 @@ In my previous experience, working as a product manager, I often need to present
 
 # Portfolio
 Here's where all my cool work will go.
+## Assignment1
+## Assignment2
+## Assignment3
+## Final Project
+
