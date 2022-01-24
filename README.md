@@ -13,6 +13,7 @@ In my previous experience, working as a product manager, I often need to present
 # Portfolio
 Here's where all my cool work will go.
 ## Assignment2
+[Visualizing government debt](/assignment2.md)
 ## Assignment3
 ## Assignment4
 ## Final Project
