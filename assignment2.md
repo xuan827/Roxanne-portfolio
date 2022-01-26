@@ -4,3 +4,5 @@
 
 ## Part2
 <div class="flourish-embed flourish-chart" data-src="visualisation/8514171"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/8531953"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
