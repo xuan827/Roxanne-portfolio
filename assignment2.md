@@ -9,3 +9,4 @@ From the grid of line charts, almost all the countries experience a turning poin
 
 ### Bar chart race
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/8531953"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+From 2010 to 2019, the rank of Debt-to-GDP Ratio of different countries are constantly changing. But, four countries (ITA, GRA, USA, and PRT) always stay at the top of the list with high Debt-to-GDP Ratio. 
