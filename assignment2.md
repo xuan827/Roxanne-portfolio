@@ -10,6 +10,11 @@ From the grid of line charts, almost all the countries experience a turning poin
 
 ### Bar chart race
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/8531953"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-From 2010 to 2019, the rank of Debt-to-GDP Ratio of different countries are constantly changing. But, four countries (ITA, GRA, USA, and PRT) always stay at the top of the list with high Debt-to-GDP Ratio. 
+This is a Debt-to-GDP Ratio rank of different countries from 2010 to 2018, the rank of Debt-to-GDP Ratio of different countries are constantly changing. However, Japan always stayed at the top of the list with high Debt-to-GDP Ratio. 
 
 ### Comparison of Visualizations
+The first graph is the default graph generated on OECD. It used bar chat to show debt-to-GDP ratios of different countries in a specific year. It is easy to compare the situation of differnt countries and find their order. But it is hard to compare different countries across years intuitively.
+
+The second graph is the grid of line charts. It presents how the debt-to-GDP ratios changed over time of different countries. You can easily observe the trends of time series and find some rule from these tends. But since they are seperated graph, it is hard to compare them directly.
+
+The last graph is the one I chose, Bar chart race. I chose this one because it can compare the debt-to-GDP ratios of different countries over a series of time, which can combine the first graph and second graph. And through this combination, more interesting conclusion can be found: Japen always stayed at the top of the debt-to-GDP ratios ranking list from 2010 to 2018, which reflected its bad financial situation. 
