@@ -16,4 +16,6 @@ Here's where all my cool work will go.
 [Visualizing government debt](/assignment2.md)
 ## Assignment3
 ## Assignment4
+## in-class exercise
+[exercise1](/exercise.md)
 ## Final Project
