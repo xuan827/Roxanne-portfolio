@@ -15,7 +15,7 @@ Here's where all my cool work will go.
 ## Assignment2
 [Visualizing government debt](/assignment2.md)
 ## Assignment3
-[Critique by Design](/Assignment 3 & 4.md)
+[Critique by Design](/assignment3_4.md)
 ## Assignment4
 ## in-class exercise
 [exercise1](/exercise.md)
