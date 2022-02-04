@@ -1,5 +1,6 @@
 ## Find a data visualization
 ![Data visualization from Equitable Growth](https://github.com/xuan827/Roxanne-portfolio/blob/main/fig2.png)
+
 Source: https://equitablegrowth.org/how-workplace-segregation-fosters-wage-discrimination-for-african-american-women/
 DataSet: https://equitablegrowth.org/working-papers/intersectionality-labor-market/
 
