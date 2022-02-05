@@ -9,7 +9,7 @@ DataSet: https://equitablegrowth.org/working-papers/intersectionality-labor-mark
 ![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/wireframe.png](https://github.com/xuan827/Roxanne-portfolio/blob/main/wireframe.png?raw=true)
 
 # Test the solution
-I selected two friends with different backgroud, one is interested in politics and sociology, and the other one only has some basic understanding。I want to test whether my visualization is easy to be understood by professionals and general audiences that only want to learn more about a new topic.
+I selected two friends with different backgroud, one is interested in politics and sociology, and the other one only has some basic understanding. I want to test whether my visualization is easy to be understood by professionals and general audiences that only want to learn more about a new topic.
 
 Friend 1:
 He can correctly tell me what the visualization presents. And he thought the intended audience will be dome politician, researchers and those who are interested in equality. There are some confusion and suggestion he pointed:
