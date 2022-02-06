@@ -9,12 +9,21 @@ This visualization is from an article "How workplace segregation fosters wage di
 
 # Critique the data visualization
 The full critique are in the Google form, and here I only summarize the key points.
-the subtitle is clearly explained, assisting the understanding,
-It is hard to understand the relationship between the title and graph. The designer use different color to differentiate different factors, but these factors seem to have no relationship with discrimination and segregation. So I felt confused how to get the conclusion that discrimination and segregation are the largest causes of black women’s wage gap. And these color patches are arranged disorderly, and it is difficult to quickly perceive the size of each color patch through the percentages at below. At the same time, there are negative percentages. It is difficult for me to understand what this means without looking carefully at the original paper.
-I would change the color and use the color to represent the relationship with discrimination and segregation, making the graph can tell the story corresponding to the title. And I will also change the order and direction of the patches placed and make them much easier to be observed.
+The arrow from left graph to right graph is clear, which helps audience to quickly get the relationship of these two graph. The subtitle is clearly explained, assisting the understanding. But it also has some problems.
+- It is hard to understand the relationship between the title and graph. The designer use different color to differentiate different factors, but these factors seem to have no relationship with discrimination and segregation. So I felt confused how to get the conclusion that discrimination and segregation are the largest causes of black women’s wage gap. 
+- These color patches are arranged disorderly, and it is difficult to quickly perceive the size of each color patch through the percentages at below. At the same time, there are negative percentages. It is difficult for me to understand what this means without looking carefully at the original paper.
+Therefore, I would change the color and use the color to represent the relationship with discrimination and segregation, making the graph can tell the story corresponding to the title. And I will also change the order and direction of the patches placed and make them much easier to be observed.
 
 # Wireframe a solution
 ![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/wireframe.png](https://github.com/xuan827/Roxanne-portfolio/blob/main/wireframe.png?raw=true)
+
+- In order to make audiences much easier to understand 36 cents wage gap, I used a coin picture as the background of pie chart.
+- Change the color, and use the darkness degree of red as the degree of factors related to discrimination and segregation, corresponding to the title I want to express.
+- Merge “Metro and Region” and “Public Sector” to eliminate the confusion to audience because of the negative percentage.
+- Reorganize the order and direction of color blocks. I put blocks related to workplace segregation together and others arranged using size from large to small, which is much easier to observe the proportion of factors related to segregation and better present the theme.
+- Add grid lines of the percentage and the percentage of each factor in the total wage gap to further help the audience intuitively percieve the size of differnt blocks.
+
+
 
 # Test the solution
 I selected two friends with different backgroud, one is interested in politics and sociology, and the other one only has some basic understanding. I want to test whether my visualization is easy to be understood by professionals and general audiences that only want to learn more about a new topic.
