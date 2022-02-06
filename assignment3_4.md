@@ -9,9 +9,11 @@ This visualization is from an article "How workplace segregation fosters wage di
 
 # Critique the data visualization
 The full critique are in the Google form, and here I only summarize the key points.
+
 The arrow from left graph to right graph is clear, which helps audience to quickly get the relationship of these two graph. The subtitle is clearly explained, assisting the understanding. But it also has some problems.
 - It is hard to understand the relationship between the title and graph. The designer use different color to differentiate different factors, but these factors seem to have no relationship with discrimination and segregation. So I felt confused how to get the conclusion that discrimination and segregation are the largest causes of black women’s wage gap. 
 - These color patches are arranged disorderly, and it is difficult to quickly perceive the size of each color patch through the percentages at below. At the same time, there are negative percentages. It is difficult for me to understand what this means without looking carefully at the original paper.
+
 Therefore, I would change the color and use the color to represent the relationship with discrimination and segregation, making the graph can tell the story corresponding to the title. And I will also change the order and direction of the patches placed and make them much easier to be observed.
 
 # Wireframe a solution
@@ -43,12 +45,12 @@ She can tell me what the visualization wants to express but also has doubts abou
 
 Feedback summary and my reflection:
 Based on the interview, I found there are mainly 3 problems of my visualization.
-1. The label in the right figure does not correspond well to the figure
-- Place the label on the corresponding color block.
+- The label in the right figure does not correspond well to the figure
+  - Place the label on the corresponding color block.
 
-2. For the further disassembly and interpretation of 44.5% explained gap, it is difficult for the audience to understand further disassembly analysis and the meaning of the percentages of the two different scales(0%-100% and 18.1%, 9.6%...) at once.
-- Make a hierarchy graph instead of two subgraphs. 
-- Use color blocks to intuitively show the proportion to people instead of numbers that may be confusing.
+- For the further disassembly and interpretation of 44.5% explained gap, it is difficult for the audience to understand further disassembly analysis and the meaning of the percentages of the two different scales(0%-100% and 18.1%, 9.6%...) at once.
+  - Make a hierarchy graph instead of two subgraphs. 
+  - Use color blocks to intuitively show the proportion to people instead of numbers that may be confusing.
 
 3. The professional concepts proposed in the paper, discrimination and segregation are not well explained by visualization through title, subtitle and graph.
 - Optimize the interpretation of titles and subtitles, and redesign the color and meaning of color to better highlight the theme in the figure
