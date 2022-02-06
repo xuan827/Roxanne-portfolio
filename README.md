@@ -14,9 +14,8 @@ In my previous experience, working as a product manager, I often need to present
 Here's where all my cool work will go.
 ## Assignment2
 [Visualizing government debt](/assignment2.md)
-## Assignment3
+## Assignment3&4
 [Critique by Design](/assignment3_4.md)
-## Assignment4
 ## in-class exercise
 [exercise1](/exercise.md)
 ## Final Project
