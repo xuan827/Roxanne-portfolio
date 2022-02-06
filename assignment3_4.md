@@ -31,6 +31,7 @@ Therefore, I would change the color and use the color to represent the relations
 I selected two friends with different backgroud, one is interested in politics and sociology, and the other one only has some basic understanding. I want to test whether my visualization is easy to be understood by professionals and general audiences that only want to learn more about a new topic.
 
 Friend 1:
+
 He can correctly tell me what the visualization presents. And he thought the intended audience will be dome politician, researchers and those who are interested in equality. There are some confusion and suggestion he pointed:
 - the numbers "18.1%, 9.6..." are difficult to make him understand at once. And the percentage from 0% to 100% are also a little bit confusing. Why 45.5% becomes 0% to 100%? Is it much better to move the percentage from left side to right side?
 - The black line between the two subgraphs was intended to explain 45.5%, but it may be misunderstood that it is the interpretation of the whole 36 cents。
@@ -38,13 +39,16 @@ He can correctly tell me what the visualization presents. And he thought the int
 - Different factors on the right are placed on the grid line, which is easy to misunderstand. You can remove the grid line on the right.
 
 Friend2:
+
 She can tell me what the visualization wants to express but also has doubts about some details. And she thought the intended audience will be some reseachers, experts but also can be general audience. There are some confusion and suggestion she pointed:
 - The rightmost text is placed on the grid line. She is a little confused about the correspondence between the text and each stacked block.
 - Why there is a 36c wage gap
 - why only 18.1% has percent sign, and she cannot quickly get the meaning of these numbers.
 
 Feedback summary and my reflection:
+
 Based on the interview, I found there are mainly 3 problems of my visualization.
+
 - The label in the right figure does not correspond well to the figure
   - Place the label on the corresponding color block.
 
@@ -52,11 +56,15 @@ Based on the interview, I found there are mainly 3 problems of my visualization.
   - Make a hierarchy graph instead of two subgraphs. 
   - Use color blocks to intuitively show the proportion to people instead of numbers that may be confusing.
 
-3. The professional concepts proposed in the paper, discrimination and segregation are not well explained by visualization through title, subtitle and graph.
-- Optimize the interpretation of titles and subtitles, and redesign the color and meaning of color to better highlight the theme in the figure
+- The professional concepts proposed in the paper, discrimination and segregation are not well explained by visualization through title, subtitle and graph.
+  - Optimize the interpretation of titles and subtitles, and redesign the color and meaning of color to better highlight the theme in the figure
 
-5. There is some information that is not very relevant to the theme that will make the audience confused, such as 36 cents.
-- Remove information that is not very relevant to the theme
+- There is some information that is not very relevant to the theme that will make the audience confused, such as 36 cents.
+  - Remove information that is not very relevant to the theme
 
 # Build your solution
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/8611985"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+- I choose hierarchy graph because there is a disassembly of factors, the hierarchy diagram can better show the corresponding relationship than using two subgraphs with pointer.
+- Redesign title. Audiences may be confused about the difference or relationship of discrimination and segregation. I found segregation is a form of discrimination after I read the article and original paper. Therefore, I redesign the title Showing the inclusive relationship between discrimination and segregation as well as emphasize the significant impact of segregation on wage gap.
+- Color. I use the darkness degree of red as the degree of factors related to discrimination instead of discrimination and segregation since segregation is a form of discrimination. Therefore, in order not to confuse readers, I make red simply indicate discrimination, add a discrimination category for different color blocks in the pop-up window, a filter to select differet discrimination category and explained it in the subtitle to help readers realize that segregation is an explained discrimination causing wage gap.
