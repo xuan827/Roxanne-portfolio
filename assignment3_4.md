@@ -1,9 +1,9 @@
 # Step 1. Find a data visualization
 ![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/fig2.png](https://github.com/xuan827/Roxanne-portfolio/blob/main/fig2.png?raw=true)
 
-Source: https://equitablegrowth.org/how-workplace-segregation-fosters-wage-discrimination-for-african-american-women/
+Source: [https://equitablegrowth.org/how-workplace-segregation-fosters-wage-discrimination-for-african-american-women/](https://equitablegrowth.org/how-workplace-segregation-fosters-wage-discrimination-for-african-american-women/)
 
-DataSet: https://equitablegrowth.org/working-papers/intersectionality-labor-market/
+DataSet: [https://equitablegrowth.org/working-papers/intersectionality-labor-market/](https://equitablegrowth.org/working-papers/intersectionality-labor-market/)
 
 This visualization is from an article "How workplace segregation fosters wage discrimination for African American women". The visualization is generated from the analysis result of the Mark Paul's paper. The visualization aims to reflect that discrimination and segregation are the main reasons of wage gap for black women by dismantling the impact proportion of different factors on the wage gap. But it is hard to get the relationship of the theme and the graph directly without referring article and original paper. From Paul's paper, we could know that unexplained factor are likely due to discrimination, and occupation and industry factors in explained factors are belongs to workplace segregation which is also because of discrimination, but the visualization doesn't present these information clearly. Therefore, in this assignment, I will try to redesign the visualization so that it can convey the theme more clearly.
 
