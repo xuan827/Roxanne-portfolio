@@ -19,3 +19,4 @@ Here's where all my cool work will go.
 ## in-class exercise
 [exercise1](/exercise.md)
 ## Final Project
+[Final project](/final_project.md)
