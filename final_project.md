@@ -23,7 +23,14 @@ The presentation will start with the fact and consequence of stray dogs and cats
   
 - Reason 4: Not get spayed or neutered
   - Figures showing the powerful breeding ability of cats and dogs
-  - spayed or neutered rate of U.S and compare with the spayed or neutered rate of cats and dogs received by shelters
+  - Spayed or neutered rate of U.S and compare with the spayed or neutered rate of cats and dogs received by shelters
 
 3.  Take actions to help stray dogs and cats and give them a home (call to action)
-  Based on the analysis of previous reasons, proposed 
+  Propose some suggestion to reduce the number of stray dogs and cats based on the reasons analyzed before.
+  -  If you have a pet, pleas be responsible for it
+  -  Adoption instead of purchase or support more for shelters (Figures of geographical distribution statistics of shelters)
+  -  Please wear ID tags for your pets
+  -  Get your pet spayed or neutered
+
+
+# Sketch
