@@ -10,12 +10,15 @@ The presentation will start with the fact and consequence of stray dogs and cats
 - Some other consequence of stray dogs and cats to community (Disease，attck people, extinction of small animals)
 
 2. The reasons of high stray dog and cat statistics
-- Reason 1: owner surrender
-  - The proportion of stray and surrender of intake in shelter, and their trends over years. Owner surrender animals in shelters, making the capacity of rescuing stray animals limited. 
+- Reason 1: owner surrender 
   - Some figures showing the top reasons of surrender and classify the reasons into owner's reasons and pet's reasons 
+
+- Reason 1: Insufficient capacity of shelter
+  - The trend of total dogs and cats received by shelters over years, and the trends of stray dogs and cats received by shelters over years
   
-- Reason 2: Low adoption rate
+- Reason 3: Low adoption rate
   - The decline trend of adoption rate
+  - how people choose to acquire a pet
   - Figures on people's attitude towards adoption
  
 - Reason 3: Pet lost
