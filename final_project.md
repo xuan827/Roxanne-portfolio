@@ -13,7 +13,7 @@ The presentation will start with the fact and consequence of stray dogs and cats
 - Reason 1: owner surrender 
   - Some figures showing the top reasons of surrender and classify the reasons into owner's reasons and pet's reasons 
 
-- Reason 1: Insufficient capacity of shelter
+- Reason 2: Insufficient capacity of shelter
   - The trend of total dogs and cats received by shelters over years, and the trends of stray dogs and cats received by shelters over years
   
 - Reason 3: Low adoption rate
@@ -21,10 +21,10 @@ The presentation will start with the fact and consequence of stray dogs and cats
   - how people choose to acquire a pet
   - Figures on people's attitude towards adoption
  
-- Reason 3: Pet lost
+- Reason 4: Pet lost
   - Propotion of pets lost 
   
-- Reason 4: Not get spayed or neutered
+- Reason 5: Not get spayed or neutered
   - Figures showing the powerful breeding ability of cats and dogs
   - Spayed or neutered rate of U.S and compare with the spayed or neutered rate of cats and dogs received by shelters
 
