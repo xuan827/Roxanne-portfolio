@@ -14,6 +14,7 @@ The presentation will start with the fact and consequence of stray dogs and cats
   - Some figures showing the top reasons of surrender and classify the reasons into owner's reasons and pet's reasons 
 
 - Reason 2: Insufficient capacity of shelter
+  - Map of the intake number of shelters in differnt state 
   - The trend of total dogs and cats received by shelters over years, and the trends of stray dogs and cats received by shelters over years
   
 - Reason 3: Low adoption rate
@@ -31,9 +32,9 @@ The presentation will start with the fact and consequence of stray dogs and cats
 3.  Take actions to help stray dogs and cats and give them a home (call to action)
   Propose some suggestion to reduce the number of stray dogs and cats based on the reasons analyzed before.
   -  If you have a pet, pleas be responsible for it
-  -  Adoption instead of purchase or support more for shelters (Figures of geographical distribution statistics of shelters)
+  -  Adoption instead of purchase or support more for shelters
   -  Please wear ID tags for your pets
   -  Get your pet spayed or neutered
 
 
-# Sketch
+# Initial sketches
