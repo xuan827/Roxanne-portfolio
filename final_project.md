@@ -38,3 +38,4 @@ The presentation will start with the fact and consequence of stray dogs and cats
 
 
 # Initial sketches
+![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/PIC1.png](https://github.com/xuan827/Roxanne-portfolio/blob/main/PIC1.png?raw=true)
