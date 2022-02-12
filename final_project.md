@@ -27,7 +27,8 @@ The presentation will start with the fact and consequence of stray dogs and cats
   
 - Reason 5: Not get spayed or neutered
   - Figures showing the powerful breeding ability of cats and dogs
-  - Spayed or neutered rate of U.S and compare with the spayed or neutered rate of cats and dogs received by shelters
+  - Spayed or neutered rate of U.S 
+  - Spayed or neutered rate of cats and dogs received by shelters
 
 3.  Take actions to help stray dogs and cats and give them a home (call to action)
   Propose some suggestion to reduce the number of stray dogs and cats based on the reasons analyzed before.
@@ -49,12 +50,30 @@ The presentation will start with the fact and consequence of stray dogs and cats
 ### Reason 1- Owner Surrender Reason classify
 ![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic3.PNG](https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic3.PNG?raw=true)
 
-### - Reason 2- Map of the intake number of shelters in differnt state
+### Reason 2- Map of the intake number of shelters in differnt state
 ![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic4.PNG](https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic4.PNG?raw=true)
 
-### - Reason 2- Trend of gross intakes and stray cats & dogs intakes over years
+### Reason 2- Trend of gross intakes and stray cats & dogs intakes over years
 ![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic5.PNG](https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic5.PNG?raw=true)
 
-### - Reason 3- The decline trend of adoption number from shelters
+### Reason 3- The decline trend of adoption number from shelters
 ![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic6.PNG](https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic6.PNG?raw=true)
 
+### Reason 3- how people choose to acquire a pet
+![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic7.PNG](https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic7.PNG?raw=true)
+
+### Reason 3- People's attitude towards adoption
+![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic8.PNG](https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic8.PNG?raw=true)
+
+### Reason 4- Propotion of pets lost 
+![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic9.PNG](https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic9.PNG?raw=true)
+
+### Reason 5- Breeding ability of cats and dogs
+![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic10_1.PNG](https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic10_1.PNG?raw=true)
+![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic10_2.PNG](https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic10_2.PNG?raw=true)
+
+### Reason 5- Spayed or neutered rate of U.S 
+![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic11.PNG](https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic11.PNG?raw=true)
+
+### Reason 5- Spayed or neutered rate of cats and dogs received by shelters
+![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic12.PNG](https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic112.PNG?raw=true)
