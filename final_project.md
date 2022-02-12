@@ -76,4 +76,12 @@ The presentation will start with the fact and consequence of stray dogs and cats
 ![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic11.PNG](https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic11.PNG?raw=true)
 
 ### Reason 5- Spayed or neutered rate of cats and dogs received by shelters
-![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic12.PNG](https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic112.PNG?raw=true)
+![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic12.PNG](https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic12.PNG?raw=true)
+
+# The data
+## 1. The fact and consequence of stray dogs and cats
+### The poor situation of stray dogs and cats in U.S
+There are some data related to the statistics of the number of total dogs&cats in U.S and stray dogs in U.S. And I want to use this data to show the poor situation of stray dogs and cats in U.S
+https://bestfriends.org/no-kill-2025/animal-welfare-statistics
+
+
