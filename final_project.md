@@ -81,7 +81,18 @@ The presentation will start with the fact and consequence of stray dogs and cats
 # The data
 ## 1. The fact and consequence of stray dogs and cats
 ### The poor situation of stray dogs and cats in U.S
-There are some data related to the statistics of the number of total dogs&cats in U.S and stray dogs in U.S. And I want to use this data to show the poor situation of stray dogs and cats in U.S
-https://bestfriends.org/no-kill-2025/animal-welfare-statistics
+There are some data related to the statistics of the number of total dogs&cats in U.S and stray dogs in U.S. And I want to use this data to show the poor situation of stray dogs and cats in U.S[1]
+
+## 2. The reasons of high stray dog and cat statistics
+### Reason 1- Reasons for Owner surrender dogs and cats
+There is a survey of why owners surrender dogs and cats, which can used to explain and anlyze the reasons of owner surrender[2]
+
+### Reason 2- Map of the intake number of shelters in differnt state
+
+
+[1] https://bestfriends.org/no-kill-2025/animal-welfare-statistics
+[2] https://network.bestfriends.org/research-data/research/owner-surrender-acquisition-source-analysis
+
+
 
 
