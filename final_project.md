@@ -15,10 +15,10 @@ The presentation will start with the fact and consequence of stray dogs and cats
 
 - Reason 2: Insufficient capacity of shelter
   - Map of the intake number of shelters in differnt state 
-  - The trend of total dogs and cats received by shelters over years, and the trends of stray dogs and cats received by shelters over years
+  - The decline trend of total dogs and cats received by shelters over years, and the decline trends of stray dogs and cats received by shelters over years
   
 - Reason 3: Low adoption rate
-  - The decline trend of adoption rate
+  - The decline trend of adoption number from shelters
   - how people choose to acquire a pet
   - Figures on people's attitude towards adoption
  
@@ -38,4 +38,23 @@ The presentation will start with the fact and consequence of stray dogs and cats
 
 
 # Initial sketches
-![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/PIC1.png](https://github.com/xuan827/Roxanne-portfolio/blob/main/PIC1.png?raw=true)
+## 1. The fact and consequence of stray dogs and cats
+### The poor situation of stray dogs and cats in U.S
+![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic1.PNG](https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic1.PNG?raw=true)
+
+## 2. The reasons of high stray dog and cat statistics
+### Reason 1- Top reasons for Owner surrender dogs and cats
+![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic2.PNG](https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic2.PNG?raw=true)
+
+### Reason 1- Owner Surrender Reason classify
+![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic3.PNG](https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic3.PNG?raw=true)
+
+### - Reason 2- Map of the intake number of shelters in differnt state
+![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic4.PNG](https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic4.PNG?raw=true)
+
+### - Reason 2- Trend of gross intakes and stray cats & dogs intakes over years
+![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic5.PNG](https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic5.PNG?raw=true)
+
+### - Reason 3- The decline trend of adoption number from shelters
+![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic6.PNG](https://github.com/xuan827/Roxanne-portfolio/blob/main/final_project_pic6.PNG?raw=true)
+
