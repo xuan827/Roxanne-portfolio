@@ -37,6 +37,8 @@ The presentation will start with the fact and consequence of stray dogs and cats
   -  Please wear ID tags for your pets
   -  Get your pet spayed or neutered
 
+![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/arc.PNG](https://github.com/xuan827/Roxanne-portfolio/blob/main/arc.PNG?raw=true)
+
 
 # Initial sketches
 ## 1. The fact and consequence of stray dogs and cats
