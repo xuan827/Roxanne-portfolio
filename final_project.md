@@ -88,10 +88,14 @@ There are some data related to the statistics of the number of total dogs&cats i
 There is a survey of why owners surrender dogs and cats, which can used to explain and anlyze the reasons of owner surrender[2]
 
 ### Reason 2- Map of the intake number of shelters in differnt state
+There are some data related to the intake number of shelters in differnt state, and I want to use this number to explain the capability of stray dogs and cats rescue. The ability of most of the states is not limited.[3]
+
+
 
 
 [1] https://bestfriends.org/no-kill-2025/animal-welfare-statistics
 [2] https://network.bestfriends.org/research-data/research/owner-surrender-acquisition-source-analysis
+[3] https://www.shelteranimalscount.org/data-dashboards
 
 
 
