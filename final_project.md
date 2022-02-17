@@ -5,11 +5,13 @@ There are many stray dogs and cats in U.S. This project will talk about the fact
 
 ## Project structure
 1. The fact and consequence of stray dogs and cats
+
 The presentation will start with the fact and consequence of stray dogs and cats. 
 - Figures on the large proportion of stray cats and dogs in all cats and dogs in US and their outcome
 - Some other consequence of stray dogs and cats to community (Disease，attck people, extinction of small animals)
 
 2. The reasons of high stray dog and cat statistics
+
 - Reason 1: owner surrender 
   - Some figures showing the top reasons of surrender and classify the reasons into owner's reasons and pet's reasons 
 
