@@ -30,7 +30,10 @@ Country live in: U.S.
 | **Did you learn something ? Did this story invoke your thinking or inspire you to help stray dogs and pets?** | Yes! I learned a lot of things I didn't know before. But You can add something more specific and practical so that the audience can take action directly after listening to the story | I was aware of the fact that this is a problem but the facts and figures took me by surprise. | I don't really want to have fur or dogs, but maybe I want to help some shelters | - Add some button with link  under the suggestions. When audiences click the link, they will know how to help stray cats and dogs quickly. |
 
 # Moodboards
-
+## Miserable vibe with dark background
+![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/moodboard1.PNG](https://github.com/xuan827/Roxanne-portfolio/blob/main/moodboard1.PNG?raw=true)
+## Using several dog/cat icon
+![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/moodboard2.PNG](https://github.com/xuan827/Roxanne-portfolio/blob/main/moodboard2.PNG?raw=true)
 
 
 
