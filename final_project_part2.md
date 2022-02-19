@@ -31,9 +31,9 @@ Country live in: U.S.
 
 # Moodboards
 ## Miserable vibe with dark background
-![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/moodboard1.PNG](https://github.com/xuan827/Roxanne-portfolio/blob/main/moodboard1.PNG?raw=true)
+![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/moodboard1.png](https://github.com/xuan827/Roxanne-portfolio/blob/main/moodboard1.png?raw=true)
 ## Using several dog/cat icon
-![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/moodboard2.PNG](https://github.com/xuan827/Roxanne-portfolio/blob/main/moodboard2.PNG?raw=true)
+![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/moodboard2.png](https://github.com/xuan827/Roxanne-portfolio/blob/main/moodboard2.png?raw=true)
 
 
 
