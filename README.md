@@ -20,4 +20,5 @@ Here's where all my cool work will go.
 [exercise1](/exercise.md)
 ## Final Project
 [Part1](/final_project.md)
+
 [Part2](/final_project_part2.md)
