@@ -16,3 +16,8 @@ Draft and feedback - I used shorthand to build my story arc and collected feedba
 The final project can be viewed [here](https://preview.shorthand.com/LnVw0Ebe3I0w92FY?_gl=1*s7cwqf*_gcl_aw*R0NMLjE2NDUwNDg4NTYuQ2owS0NRaUEzcktRQmhDTkFSSXNBQ1VFV19ZR1c5QjFhU1d3MUJWVVZsbEpZRnAyMkpHMUF5Wnp1bU41RnhoM0ZBa0dwNFhMRlZxSGlac2FBck9ZRUFMd193Y0I.).
 
 ### Audience for my project
+My audience is everyone with different pet breeding situations in the United State, which is a large scope. I hope everyone, whether he or she has pet or not, can do their best to become the savior of the stray animal crisis, therefore the scope of audience is not targeted at a single specific group，but for a diverse group. The key things that I thought about while revising is whether the story can be well organized and integrated, making sense to every group.
+
+In my story, I talked about "who is the savior of stray animal crisis". Through discussion of possible saviors, different audiences will have empathy engagement. At the same time, in the final appeal, I also put forward different suggestions for different audience roles, so that everyone can take action after listening or reading my story.
+
+Compared with Part II, I also made the role classification of discussed sarior clearer. In order to distinguish pet owners and adopters more effectively, I defined pet owners as "pet owners who are keeping pets".
