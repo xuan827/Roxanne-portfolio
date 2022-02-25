@@ -22,3 +22,5 @@ Here's where all my cool work will go.
 [Part1](/final_project.md)
 
 [Part2](/final_project_part2.md)
+
+[Part3](/final_project_part3.md)
