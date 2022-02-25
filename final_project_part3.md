@@ -23,4 +23,11 @@ In my story, I talked about "who is the savior of stray animal crisis". Through 
 Compared with Part II, I made the classification of discussed sarior clearer. In order to distinguish "pet owners" and "adopters" more effectively, I changed "pet owners" as "pet owners who are keeping pets" in my subtitle.
 
 ### Changes I made since the completion of Part II
+**Develop my priority list of feedback** 
+This is the integrated feedback from interviews in my part 2 submission(using orange stickie) and from professor's feedback(using blue stickie). According to the feasibility and importance, I put these feedbacks on the coordinate axis.
+![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/feedback.png](https://github.com/xuan827/Roxanne-portfolio/blob/main/feedback.png?raw=true)
+
+**Change based on priority**
+Based on the priority, I absorb most of feedbacks and modified my story. But a small number of low priority feedback were not modified due to time constraints. Those gray stickers are the parts that have not been modified.
+![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/feedback.png](https://github.com/xuan827/Roxanne-portfolio/blob/main/feedback_change.png?raw=true)
 
