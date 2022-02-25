@@ -20,4 +20,7 @@ My audience is everyone with different pet breeding situations in the United Sta
 
 In my story, I talked about "who is the savior of stray animal crisis". Through discussion of possible saviors, different audiences will have empathy engagement. At the same time, in the final appeal, I also put forward different suggestions for different audience roles, so that everyone can take action after listening or reading my story.
 
-Compared with Part II, I also made the role classification of discussed sarior clearer. In order to distinguish pet owners and adopters more effectively, I defined pet owners as "pet owners who are keeping pets".
+Compared with Part II, I made the classification of discussed sarior clearer. In order to distinguish "pet owners" and "adopters" more effectively, I changed "pet owners" as "pet owners who are keeping pets" in my subtitle.
+
+### Changes I made since the completion of Part II
+
