@@ -33,3 +33,20 @@ This is the integrated feedback from interviews in my part 2 submission(using or
 Based on the priority, I absorb most of feedbacks and modified my story. But a small number of low priority feedback were not modified due to time constraints. Those gray stickers are the parts that have not been modified.
 ![If the image is broken, please try this link to view https://github.com/xuan827/Roxanne-portfolio/blob/main/feedback.png](https://github.com/xuan827/Roxanne-portfolio/blob/main/feedback_change.png?raw=true)
 
+Now, when I reflect back on the entire journey, I think there are some challenging moments that have benefited me a lot. 
+
+The first chanllege is outline design and data collect. Although I have many topics to talk about or different perspectives on the same topic, collecting comprehensive and sufficient data is a headache. Therefore, I initially determined some outlines, and check whether there is data supporting each part. After several rounds of adjustments, the data and outline were finally determined.
+
+The second chanllege is story design. At first, I'm so obsessed with the adequacy of data that I ignore the story. my story was closer to the stacking of views and data report rather than a story. The professor's comments woke me up in time and Netflix's videos help me a lot. After watching several videos, I learned some method and structure of story telling, so in part II, I reorganized the story structure from a new angle，making the story line clearer and more attractive. 
+
+Collecting feedback and analyzing what needs to be modified is a challenge. Different audiences have different preferences for story and visual appreciation, especially in design aesthetics. Therefore, how to modify the final work in limited time so that most of my target audience can be satisfied is a challenge. Combined with feasibility and importance, I ranked all feedbacks. Generally mentioned issues are listed as the most important and must be modified. Feedbacks that are rarely mentioned and may involve the personal preferences of the audience are given the lowest priority.
+
+Finally, telling a story in 60s is a big chanllenge. Understanding what key elements to include in the presentations, such that it still flows coherently and conveys the overall intent is very difficult. After multiple iterations and practice, I was finally able to do it all under 1 minute.
+
+### Data References
+
+
+Citations
+
+
+
