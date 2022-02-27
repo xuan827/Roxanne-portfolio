@@ -19,8 +19,8 @@ Here's where all my cool work will go.
 ## in-class exercise
 [exercise1](/exercise.md)
 ## Final Project 
-[Part1](/final_project.md)
+[Part1](/final_project.md)💡
 
-[Part2](/final_project_part2.md)
+[Part2](/final_project_part2.md)✂️
 
 [Part3](/final_project_part3.md)🌟
