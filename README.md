@@ -12,7 +12,7 @@ In my previous experience, working as a product manager, I often need to present
 
 # Portfolio
 Here's where all my cool work will go.
-## Assignment2
+## Assignment2 📊
 [Visualizing government debt](/assignment2.md)
 
 In this assignment,  I use different data visualization tools and methods to visualize [government debt data](https://data.oecd.org/gga/general-government-debt.htm)
