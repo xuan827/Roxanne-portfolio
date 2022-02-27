@@ -1,7 +1,7 @@
 # Roxanne-portfolio
 This is my public portfolio for Telling Stories with Data at CMU
 
-# About me
+# About me ⭐
 Hello, I am Ruoxuan Li, a second-year student from MSIT program. I am a combination of sensibility and rationality. On the one side, I pretty love art and always paint or visit some art museum in my spare time where I could enjoy the color, romance and sense of story. On the other side, I pay great attention to analyzing problems objectively. I believe visualization can be a combination of art and logic. We could explore a lot objective conclusion from data and gracefully present to the audience. 
 
 I had some algorithm research experiecne, but I found I am much more interested in product management and decided to be a product manager after my graduation. I've worked as an product manager intern in Wechat for 6 months in last year, paticipating in design some data products and exploring demands using data. My current interest are in toB innovation, helping more companies make digital transformation. I am exporing more ways to discover requirements more effectively, design better product, and attract users.  
