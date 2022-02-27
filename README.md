@@ -15,7 +15,7 @@ Here's where all my cool work will go.
 ## Assignment2
 [Visualizing government debt](/assignment2.md)
 
-In this assignment,  I use different data visualization tools and methods to visualize government debt data
+In this assignment,  I use different data visualization tools and methods to visualize [government debt data](https://data.oecd.org/gga/general-government-debt.htm)
 ## Assignment3&4
 [Critique by Design](/assignment3_4.md)
 
