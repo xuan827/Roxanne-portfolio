@@ -28,3 +28,5 @@ A brainstorming phase - a high level project idea, project structure, initial sk
 Draft and feedback - I used shorthand to build my story arc and collected feedback through target audiences interview.
 
 [Part3](/final_project_part3.md)🌟
+
+Final edits -  Refined the storyline and visualization to present a complete story.
