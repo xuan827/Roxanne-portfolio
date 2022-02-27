@@ -23,6 +23,7 @@ In this assignment, I critique the graph of "Discrimination and segregation are 
 
 ## in-class exercise ✏️
 [exercise1](/exercise.md)
+
 This is a in-class exerise of Tableau
 
 ## Final Project 🏆 
