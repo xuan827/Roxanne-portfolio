@@ -16,7 +16,7 @@ Here's where all my cool work will go.
 [Visualizing government debt](/assignment2.md)
 
 In this assignment,  I use different data visualization tools and methods to visualize [government debt data](https://data.oecd.org/gga/general-government-debt.htm)
-## Assignment3&4
+## Assignment3&4 📃
 [Critique by Design](/assignment3_4.md)
 
 In this assignment, I critique the graph of "Discrimination and segregation are the largest causes of black women's wage gap" and redesign it.
