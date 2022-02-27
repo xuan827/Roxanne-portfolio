@@ -20,8 +20,11 @@ Here's where all my cool work will go.
 [exercise1](/exercise.md)
 ## Final Project 
 [Part1](/final_project.md)💡
+
 A brainstorming phase - a high level project idea, project structure, initial sketches, data sources.
 
 [Part2](/final_project_part2.md)✂️
+
+Draft and feedback - I used shorthand to build my story arc and collected feedback through target audiences interview.
 
 [Part3](/final_project_part3.md)🌟
