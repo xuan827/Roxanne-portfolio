@@ -21,8 +21,10 @@ In this assignment,  I use different data visualization tools and methods to vis
 
 In this assignment, I critique the graph of "Discrimination and segregation are the largest causes of black women's wage gap" and redesign it.
 
-## in-class exercise
+## in-class exercise ✏️
 [exercise1](/exercise.md)
+This is a in-class exerise of Tableau
+
 ## Final Project 🏆 
 [Who is the Savior of the stray animal crisis in the United State？ ](https://preview.shorthand.com/LnVw0Ebe3I0w92FY?_gl=1*s7cwqf*_gcl_aw*R0NMLjE2NDUwNDg4NTYuQ2owS0NRaUEzcktRQmhDTkFSSXNBQ1VFV19ZR1c5QjFhU1d3MUJWVVZsbEpZRnAyMkpHMUF5Wnp1bU41RnhoM0ZBa0dwNFhMRlZxSGlac2FBck9ZRUFMd193Y0I.)
 
