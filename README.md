@@ -14,10 +14,12 @@ In my previous experience, working as a product manager, I often need to present
 Here's where all my cool work will go.
 ## Assignment2
 [Visualizing government debt](/assignment2.md)
+
+In this assignment,  I use different data visualization tools and methods to visualize government debt data
 ## Assignment3&4
 [Critique by Design](/assignment3_4.md)
 
-This assignment I critique the graph of "Discrimination and segregation are the largest causes of black women's wage gap" and redesign it.
+In this assignment, I critique the graph of "Discrimination and segregation are the largest causes of black women's wage gap" and redesign it.
 
 ## in-class exercise
 [exercise1](/exercise.md)
