@@ -16,6 +16,9 @@ Here's where all my cool work will go.
 [Visualizing government debt](/assignment2.md)
 ## Assignment3&4
 [Critique by Design](/assignment3_4.md)
+
+This assignment I critique the graph of "Discrimination and segregation are the largest causes of black women's wage gap" and redesign it.
+
 ## in-class exercise
 [exercise1](/exercise.md)
 ## Final Project 
