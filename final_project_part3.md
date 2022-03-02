@@ -65,11 +65,17 @@ Finally, telling a story in 60s is a big chanllenge. Understanding what key elem
 
 ### Citations
 [1] Stancheva, T. (2022, February 20). Stray animal statisticsーwhat are the actual numbers in 2022. Pawsome Advice. Retrieved February 25, 2022, from https://pawsomeadvice.com/pets/stray-animal-statistics/#:~:text=Abandoned%20animal%20stats%20report%20that,go%20into%20shelters%20each%20year.
+
 [2] Animal Welfare Statistics. Best Friends. (n.d.). Retrieved February 25, 2022, from https://bestfriends.org/no-kill-2025/animal-welfare-statistics 
+
 [3] Hrubenja																							Good content writing is based on proper research and a thorough understanding of the English language. For as long as he can remember, A. (2022, February 18). 37 alarming pet adoption statistics (2022 update). Petpedia. Retrieved February 25, 2022, from https://petpedia.co/pet-adoption-statistics/#:~:text=The%20pet%20adoption%20stats%20gathered,comes%20from%20friends%20and%20family
+
 [4] Best Friends Animal Society Survey exposes why people opt to adopt-or not. Modern Dog magazine. (n.d.). Retrieved February 25, 2022, from https://moderndogmagazine.com/articles/best-friends-animal-society-survey-exposes-why-people-opt-adopt-or-not/108382 
+
 [5] Owner surrender &amp; acquisition source analysis: Network partners. Best Friends Animal Society. (n.d.). Retrieved February 25, 2022, from https://network.bestfriends.org/research-data/research/owner-surrender-acquisition-source-analysis 
+
 [6] How many pets are lost? how many find their way home? ASPCA survey has answers. ASPCA. (n.d.). Retrieved February 25, 2022, from https://www.aspca.org/about-us/press-releases/how-many-pets-are-lost-how-many-find-their-way-home-aspca-survey-has-answers 
+
 [7] 11 facts about animal homelessness. DoSomething.org. (n.d.). Retrieved February 25, 2022, from https://www.dosomething.org/us/facts/11-facts-about-animal-homelessness#fnref9 
 
 ## Image Credits 
