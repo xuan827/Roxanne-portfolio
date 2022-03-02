@@ -13,7 +13,7 @@ Draft and feedback - I used shorthand to build my story arc and collected feedba
 
 ## End of my project
 
-The final project can be viewed [here](https://preview.shorthand.com/LnVw0Ebe3I0w92FY?_gl=1*s7cwqf*_gcl_aw*R0NMLjE2NDUwNDg4NTYuQ2owS0NRaUEzcktRQmhDTkFSSXNBQ1VFV19ZR1c5QjFhU1d3MUJWVVZsbEpZRnAyMkpHMUF5Wnp1bU41RnhoM0ZBa0dwNFhMRlZxSGlac2FBck9ZRUFMd193Y0I.).
+The final project can be viewed [here](https://carnegiemellon.shorthandstories.com/who-is-the-savior-of-the-stray-animal-crisis-in-the-united-state/index.html).
 
 ### Audience for my project
 I redefine the audience of my project. My audiences are common people in the United Stated with different pet breeding situations instead a vague concepts "everyone". I hope people in U.S., whether he or she has pet or not, can do their best to become the savior of the stray animal crisis, therefore the scope of audience is not targeted at a single specific group，but for a diverse group:"people who are keeping pets now", "people who want to get a pet", "people who don't want pets". The key things that I thought about while revising is whether the story can be well organized and integrated, making sense to every group.
